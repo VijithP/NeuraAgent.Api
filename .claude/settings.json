@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(*get-jira-ticket.ps1*)",
+      "PowerShell(*get-jira-ticket.ps1*)"
+    ],
+    "projects": {
+      "C:/AI Project/Agents": {
+        "hasTrustDialogAccepted": true
+      }
+    }
+  }
+}
